@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334953559362",
+    "project_id": "trashsort-388213",
+    "storage_bucket": "trashsort-388213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334953559362:android:fa1388ccab0e30115f84db",
+        "android_client_info": {
+          "package_name": "com.capstone.trashsortapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334953559362-52f7k4cqqf4qj8602bvreteu7aqekt36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.trashsortapp",
+            "certificate_hash": "82ccc4b435f7047501e73f953a34ba717d0be789"
+          }
+        },
+        {
+          "client_id": "334953559362-4s08bcsv399j8u6h1rv6b2nho7j8rrf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC41zL5u90qIQ_0-DRarXjATC7Hc0i3Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334953559362-4s08bcsv399j8u6h1rv6b2nho7j8rrf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
