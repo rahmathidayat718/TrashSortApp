@@ -17,4 +17,13 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="welcome_to">Welcome</string>
+    <string name="information">Application for sorting\n organic and inorganic waste</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="register">Register</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="name">Name</string>
 </resources>
